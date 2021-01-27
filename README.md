@@ -1,0 +1,1 @@
+# def-enb-y-ksayiyibul-print-print-sayi1-int-input-1.-Say-sayi2-int-
